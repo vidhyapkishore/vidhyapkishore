@@ -2,21 +2,19 @@
 <h3 align="center">Enthusiastic and organised Python full stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.syncfusion.com/blogs/wp-content/uploads/2020/08/Create-Stunning-Circular-Progress-Bars-with-Flutter-Radial-Gauge-Part-1.png">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahbasahsankk&label=Profile%20views&color=0e75b6&style=flat" alt="shahbasahsankk" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vidhyapkishore&label=Profile%20views&color=0e75b6&style=flat" alt="vidhyapkishore" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Shoe-Cart](https://github.com/Shahbasahsankk/Shoe-Cart)
+- 🔭 I’m currently working on [Goodhands](https://github.com/vidhyapkishore/goodhands)
 
-- 🌱 I’m currently learning **CI/CD Unit testing**
+- 🌱 I’m currently learning **React JS**
 
-- 💬 Ask me about **Provider,Dart,Flutter**
-
-- 📫 How to reach me **shabum18m@gmail.com**
+- 📫 How to reach me **vidhyapkishore@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shahbas ahsan k k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahbas ahsan k k" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vidhya-p-k/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahbas ahsan k k" height="30" width="40" /></a>
 <a href="https://instagram.com/shahbaz_ahsan_k_k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shahbaz_ahsan_k_k" height="30" width="40" /></a>
 </p>
 
