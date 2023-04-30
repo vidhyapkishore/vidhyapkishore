@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shahbas Ahsan K K</h1>
-<h3 align="center">Enthusiastic and organised Flutter developer from India</h3>
+<h1 align="center">Hi 👋, I'm Vidhya P K</h1>
+<h3 align="center">Enthusiastic and organised Python full stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.syncfusion.com/blogs/wp-content/uploads/2020/08/Create-Stunning-Circular-Progress-Bars-with-Flutter-Radial-Gauge-Part-1.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahbasahsankk&label=Profile%20views&color=0e75b6&style=flat" alt="shahbasahsankk" /> </p>
