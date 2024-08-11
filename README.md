@@ -20,40 +20,40 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="width:20%"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png" alt="bootstrap" width="40" height="40"/> </a>  
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png" alt="bootstrap" width="40" height="40"/> </a> 
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="react" width="40" height="40"/> </a> 
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/main/topics/django/django.png" alt="django" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="padding:20px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer" style="padding:20px;"> <img src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png" alt="bootstrap" width="40" height="40"/> </a>  
+<a href="https://www.php.net/" target="_blank" rel="noreferrer" style="padding:20px;"> <img src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png" alt="bootstrap" width="40" height="40"/> </a> 
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer" style="padding:20px;"> <img src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png" alt="bootstrap" width="40" height="40"/> </a> 
+<a href="https://react.dev/" target="_blank" rel="noreferrer" style="padding:20px;"> <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="react" width="40" height="40"/> </a> 
+<a href="https://www.python.org/" target="_blank" rel="noreferrer" style="padding:20px;"> <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="python" width="40" height="40"/> </a> 
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer" style="padding:20px;"> <img src="https://raw.githubusercontent.com/github/explore/main/topics/django/django.png" alt="django" width="40" height="40"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="padding:20px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 </p>
 <p align="left">
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="padding:20px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+<a href="https://postman.com" target="_blank" rel="noreferrer" style="padding:20px;"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 
-<a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer">
+<a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer" style="padding:20px;">
 <img src="https://raw.githubusercontent.com/vidhyapkishore/vidhyapkishore/main/rest.png" alt="django_rest_framework" width="40" height="40"/>
 </a> 
 
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank" rel="noreferrer">
+<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank" rel="noreferrer" style="padding:20px;">
 <img src="https://raw.githubusercontent.com/vidhyapkishore/vidhyapkishore/main/download.png" alt="photoshop" width="40" height="40"/>
 </a> 
 
-<a href="https://wordpress.com/" target="_blank" rel="noreferrer">
+<a href="https://wordpress.com/" target="_blank" rel="noreferrer" style="padding:20px;">
 <img src="https://raw.githubusercontent.com/github/explore/main/topics/wordpress/wordpress.png" alt="wordpress" width="40" height="40"/>
 </a> 
 
-<a href="https://jquery.com/" target="_blank" rel="noreferrer">
+<a href="https://jquery.com/" target="_blank" rel="noreferrer" style="padding:20px;">
 <img src="https://raw.githubusercontent.com/github/explore/main/topics/jquery/jquery.png" alt="jQuery" width="40" height="40"/>
 </a> 
 
-<a href="https://reactrouter.com/en/main" target="_blank" rel="noreferrer">
+<a href="https://reactrouter.com/en/main" target="_blank" rel="noreferrer" style="padding:20px;">
 <img src="https://raw.githubusercontent.com/github/explore/main/topics/react-router/react-router.png" alt="reactrouter" width="40" height="40"/>
 </a> 
 
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer" style="padding:20px;">
 <img src="https://raw.githubusercontent.com/github/explore/main/topics/redux/redux.png" alt="redux" width="40" height="40"/>
 </a>
 
